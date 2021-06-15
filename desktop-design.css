@@ -1,0 +1,63 @@
+body{
+  margin: 100px 50px 100px 100px;
+  background-color: hsl(233, 47%, 7%);
+}
+.filtered{
+  background-color: hsl(277, 64%, 61%);
+  filter: contrast(1.5);
+  width: fit-content;
+  margin-left: 500px;
+
+}
+img{
+  opacity: ;
+  position: relative;
+  ;
+}
+h1{
+  width: 40%;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+
+}
+.Content{
+  position: absolute;
+  padding-top: 50px;
+  display: inline-block;
+  padding-left: 100px;
+  background-color: hsl(244, 38%, 16%);
+}
+section{
+  width: 40%;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  padding-bottom: 98px;
+}
+p{font-family: 'Inter', sans-serif;
+color: hsl(0, 0%, 100%);
+font-weight: bolder;
+
+}
+.BottomMid{
+  margin-left: 100px;
+  margin-bottom: 30px;
+  position: absolute;
+  font-family: 'Inter', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  padding-bottom: 50px;
+
+}
+.BottomRight{
+  margin-left: 200px;
+  font-family: 'Inter', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  padding-bottom: 50px;
+  position: absolute;
+}
+.BottomLeft{
+  position: absolute;
+  font-family: 'Inter', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  padding-bottom: 50px;
+}
